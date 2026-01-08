@@ -1,6 +1,6 @@
 
 
-st.set_page_config(page_title="Chi è il tuo candidato ideale?", layout="centered")
+#"Chi è il tuo candidato ideale?", layout="centered")
 
 st.title("🗳️ Scopri il candidato più vicino alle tue idee")
 st.write("Rispondi alle domande scegliendo la posizione che condividi di più.")
