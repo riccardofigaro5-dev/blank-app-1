@@ -1,4 +1,4 @@
-import streamlit as st
+
 
 st.set_page_config(page_title="Chi è il tuo candidato ideale?", layout="centered")
 
